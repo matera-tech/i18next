@@ -21,7 +21,7 @@ let sets = [
   { lngs: ['cs','sk'], nr: [1,2,5], fc: 6 },
   { lngs: ['csb','pl'], nr: [1,2,5], fc: 7 },
   { lngs: ['cy'], nr: [1,2,3,8], fc: 8 },
-  { lngs: ['fr'], nr: [1,2], fc: 9 },
+  { lngs: ['fr'], nr: [0,1,2], fc: 18 },
   { lngs: ['ga'], nr: [1,2,3,7,11], fc: 10 },
   { lngs: ['gd'], nr: [1,2,3,20], fc: 11 },
   { lngs: ['is'], nr: [1,2], fc: 12 },
